@@ -1,0 +1,3 @@
+valid_forms_homepage:
+    path:     /
+    defaults: { _controller: ValidFormsBundle:Default:index }
